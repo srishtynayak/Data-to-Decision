@@ -7,3 +7,5 @@ Item 1
   * Item 2b
 
 [Visit https://github.com/srishtynayak/Data-to-Decision!]
+
+##Licensed
