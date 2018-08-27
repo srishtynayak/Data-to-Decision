@@ -1,11 +1,11 @@
-## Project Name
+## Data to Decision
 
-### Description 
-Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+### Description: _This repository will contain my assignments related to the course._
+# List of Items
+* Item 1
+  * Item 1a
+  * Item 1b
 
 [Visit https://github.com/srishtynayak/Data-to-Decision!]
 
-## Licensed
+## License 
