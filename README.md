@@ -14,9 +14,8 @@
 
 # Table 
 
-|Date|  Temp 	| Density  	| Size  	|  Species 	|
-|-
-	|---	|---	|---	|---  |
+|Date|  Temp 	|    Density  	| Size  |  Species|
+|-	|---	|---	|---	|---    |
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
