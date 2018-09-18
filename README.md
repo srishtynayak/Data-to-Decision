@@ -9,7 +9,7 @@
 * 3 : No details has been provided for graph present in the excel sheet.
 * 4 : There is one red row in zoo temp excel , what does that mean.
 * 5 : What Chla stands for?
-* 6 : 
+* 6 : Data in the pond2010 sheet is not organized.
 
 
 |A   	|  B 	|   C	|   D	|  E 	|
