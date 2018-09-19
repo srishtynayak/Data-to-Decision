@@ -14,8 +14,8 @@
 
 # Table 
 
-|Date|  Temp 	|    Density  	| Size  |  Species|
-|   |   |   |   |   |
+
+|Date|Time|Density| Size  |Species|
 |---|---|---|---|---|
 |   |   |   |   |   |
 * can have seperate table for Chippo and Cuni
