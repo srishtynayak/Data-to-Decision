@@ -1,6 +1,6 @@
 
 ### Description: _This repository will contain the list of problems in the Dataset provided for zooplankton._
-####  1 List of Problems:
+####  1. List of Problems:
 * 1 : In pond2010 dataset there are few data missing like tem, density, colony diameter.
 * 2 : In Zoop tem dataset there is blank with '*' does not explain the details.
 * 3 : No details has been provided for graph present in the excel sheet.
@@ -10,7 +10,7 @@
 * 7 : Data recorded in three diffrerent sheets in unorganized manner.
 * 8 : Names in fields are not clear.
 
-# 2 Suggestions: 
+#### 2. Suggestions: 
 
 # Table 
 
