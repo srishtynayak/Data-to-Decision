@@ -2,7 +2,7 @@
 
 ## Project Title
 
-### Description: _This repository will contain the Assignmnets ._
+### Description: _This repository will contain the  Individual Assignments ._
 #### List of Assignmnets:
 * 1: Data Entry Analysis
 * 2
