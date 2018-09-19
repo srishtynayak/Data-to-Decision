@@ -15,10 +15,7 @@
 # Table 
 
 |Date|  Temp 	|    Density  	| Size  |  Species|
-|	|	|	|	|                     |
-||	|	|	|                     |
-
-
+|    |        |                 |     |         |
 * can have seperate table for Chippo and Cuni
 * Name for colounm should be understandable to everyone
 * Missing data which are  not relevent can be deleted.
