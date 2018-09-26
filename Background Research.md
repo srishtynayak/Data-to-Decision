@@ -9,16 +9,16 @@ The Center for Science and Leadership (HICSL) is a scientific and education comm
 
 Our research mainly focuses on the following questions and analyzing:
 
-	The impact of the temperature of water on the growth rate of scallops.
-	The impact of density and gear type on the scallop’s growth through their lifetime in cages.
-	The impact of the location in which the scallops are kept.
-	The effect of small-scale closures on the scallop population
-	What is the population dynamic and recruitment to the specific area based on Spat data.
-	Which are is the best for settlement with given closure areas
-	The most effective way to increase the awareness regarding sustaining aquaculture.
-	What is the impact of density on growth rate.
-	How the scallops are to be measured.
-	What type of environment must be used to raise baby scallops.
+*	The impact of the temperature of water on the growth rate of scallops.
+*	The impact of density and gear type on the scallop’s growth through their lifetime in cages.
+*	The impact of the location in which the scallops are kept.
+*	The effect of small-scale closures on the scallop population
+*	What is the population dynamic and recruitment to the specific area based on Spat data.
+*	Which are is the best for settlement with given closure areas
+*	The most effective way to increase the awareness regarding sustaining aquaculture.
+*	What is the impact of density on growth rate.
+*	How the scallops are to be measured.
+*	What type of environment must be used to raise baby scallops.
 We have around five excel sheets of dataset: 
 1)	2018 Spat data
 2)	MR&OP Scallop Spat Bags
