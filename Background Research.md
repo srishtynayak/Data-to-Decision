@@ -52,7 +52,7 @@ As part of the work is to understand current patterns in the Muscle Ridge Channe
 ### References:
 1.	J., & Moritz, B. (2016, July 8). Hanging Scallops by a Thread. Retrieved from http://www.hurricaneisland.net/science-for-everyone/2016/9/8/hanging-scallops-by-a-thread
 2.	Batchelder, J. (n.d.). Scallops out of Hurricane. Retrieved from http://www.hurricaneisland.net/science-for-everyone/2017/7/17/scallops-out-of-hurricane
-3.	Student Research. (n.d.). Retrieved from http://www.hurricaneisland.net/student-research/
+3.	Scallops, and Clams, and Mussels, Oh My! (n.d.). Retrieved from http://www.hurricaneisland.net/science-for-everyone/2015/7/29/scallops-and-clams-and-mussels-oh-my?rq=bailey moritz
 4.	Brzezinski, D. (n.d.). Figure 2f from: Irimia R, Gottschling M (2016) Taxonomic revision of Rochefortia Sw. (Ehretiaceae, Boraginales). Biodiversity Data Journal 4: E7720. https://doi.org/10.3897/BDJ.4.e7720. Scallop Enhancement: A Literature Review with a Focus on Methods’ Applicability in Maine Waters. doi:10.3897/bdj.4.e7720.figure2f
 5.	Cliché, G., Vigneau, S., Giguere, M. (1997). Status of a commercial sea scallop enhancement project in Iles-de-la-Madeleine (Quebec, Canada). Aquaculture International 5(3): 259-266. 
 6.	LEVERONE, J. R., GEIGER, S. P., STEPHENSON, S. P., & ARNOLD, W. S. (n.d.). Figure 2f from: Irimia R, Gottschling M (2016) Taxonomic revision of Rochefortia Sw. (Ehretiaceae, Boraginales). Biodiversity Data Journal 4: E7720. https://doi.org/10.3897/BDJ.4.e7720. INCREASE IN BAY SCALLOP (ARGOPECTEN IRRADIANS) POPULATIONS FOLLOWING RELEASES OF COMPETENT LARVAE IN TWO WEST FLORIDA ESTUARIES. doi:10.3897/bdj.4.e7720.figure2f
