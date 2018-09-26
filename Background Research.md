@@ -1,7 +1,7 @@
-##Background Research:
+## Background Research:
 The kind of decisions, interventions, or actions that analysis results could support (e.g., management actions, advocacy for policy changes, etc.)
 
-###Hurricane Island aquaculture and Scallop growth:
+### Hurricane Island aquaculture and Scallop growth:
 
 Hurricane Island is 10 miles southeast of Rockland and two miles southwest of Vinalhaven in the Fox Islands archipelago, Penobscot Bay, Maine. It has an interesting history, beginning first as a granite quarrying boomtown, an offshore outward-bound base and lastly as a center for science, leadership and marine research.
 The Mission of Hurricane Island is to integrate science education, applied research, and leadership development through year-round educational programs and a seasonal, environmentally-sustainable island community. There program is aimed towards developing both the Center for Science and Leadership and Field Research Station
